@@ -65,14 +65,9 @@ This skill implements the framework described in:
 
 ### Install the skill
 
-1. Download `rhino-deep-research.skill` from the [releases page](https://github.com/Flosters/rhino-deep-research/releases)
-2. In Claude Code, run:
-
 ```
-/install-skill path/to/rhino-deep-research.skill
+npx skills add Flosters/rhino-deep-research
 ```
-
-Or install directly via the Claude Code skill registry if available.
 
 ---
 
